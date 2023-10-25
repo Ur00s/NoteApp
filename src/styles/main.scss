@@ -1,0 +1,32 @@
+body {
+    background-color: #857095;
+    
+    .app {
+        max-width: 1150px;
+        background-color: #4D2B68;
+        border-radius: 10px;
+        margin: 0 auto;
+        box-shadow: 1px 0px 17px -2px #fff;
+        padding: 20px;
+
+        .create-wrapper {
+            margin: 0 auto;
+            text-align: center;
+        }
+        input {
+            height: 23px;
+            width: 160px;
+            padding: 5px;
+            font-size: 15px;
+            margin: 10px;
+        }
+
+        button {
+            font-size: 15px;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            background: #2F1B3E;
+        }
+    }
+}
